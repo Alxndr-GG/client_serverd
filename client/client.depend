@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1618221092 source:/home/user/projects/alpha_daemon/client/main.cpp
+	<iostream>
+	<fstream>
+	"libs.h"
+
+1618151752 /home/user/projects/alpha_daemon/client/libs.h
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<time.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<errno.h>
+	<fcntl.h>
+	<netdb.h>
+	<signal.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/stat.h>
+	<sys/uio.h>
+	<unistd.h>
+	<sys/wait.h>
+	<sys/un.h>
+	<sys/select.h>
+	<poll.h>
+	<strings.h>
+	<sys/ioctl.h>
+	<sys/filio.h>
+	<sys/sockio.h>
+	<pthread.h>
+
+1618845863 source:/home/user/pro/client/main.cpp
+	<iostream>
+	<fstream>
+	"libs.h"
+
+1618273116 /home/user/pro/client/libs.h
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<time.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<errno.h>
+	<fcntl.h>
+	<netdb.h>
+	<signal.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/stat.h>
+	<sys/uio.h>
+	<unistd.h>
+	<sys/wait.h>
+	<sys/un.h>
+	<sys/select.h>
+	<poll.h>
+	<strings.h>
+	<sys/ioctl.h>
+	<sys/filio.h>
+	<sys/sockio.h>
+	<pthread.h>
+
